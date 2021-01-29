@@ -50,9 +50,9 @@ namespace ConsoleQuest
                 case "2":
                     //Console.WriteLine("Case 2");
                     return 2;
-                case "0":
-                    Console.WriteLine(Location.ToString());
-                    return 0;
+                //case "0":
+                //    Console.WriteLine(Location.ToString());
+                //    return 0;
                 default:
                     Console.WriteLine("Действие недоступно");
                     return 0;
